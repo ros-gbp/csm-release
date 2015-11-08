@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>csm</name>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <description>
     This is a ROS 3rd-party wrapper <a href = "http://www.ros.org/reps/rep-0136.html">(see REP-136 for more detail)</a> of Andrea Censi's CSM package. 
 
@@ -24,7 +24,6 @@
 
   <buildtool_depend>cmake</buildtool_depend>
   <run_depend>catkin</run_depend>
-  <export>
-    <build_type>cmake</build_type>
-  </export>
+  <run_depend>libgsl</run_depend>
+  <export />
 </package>
