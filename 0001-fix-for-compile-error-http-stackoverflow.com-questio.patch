@@ -1,4 +1,4 @@
-From ec67dcf12882ad0e096c62f7d725dbc6c7e1c5ac Mon Sep 17 00:00:00 2001
+From d4b2cd84b709c53d32c4aae9b6e1be8bbbcba163 Mon Sep 17 00:00:00 2001
 From: Kei Okada <kei.okada@gmail.com>
 Date: Sun, 8 Nov 2015 13:34:31 +0900
 Subject: [PATCH] fix for compile error,
