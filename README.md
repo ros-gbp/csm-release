@@ -1,3 +1,26 @@
+## csm (kinetic) - 1.0.2-0
+
+The packages in the `csm` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release csm --track kinetic --rosdistro kinetic` on `Wed, 08 Mar 2017 11:54:42 -0000`
+
+The `csm` package was released.
+
+Version of package(s) in repository `csm`:
+
+- upstream repository: https://github.com/AndreaCensi/csm.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.24`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## csm (jade) - 1.0.2-1
 
 The packages in the `csm` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade csm` on `Tue, 22 Dec 2015 03:12:18 -0000`
